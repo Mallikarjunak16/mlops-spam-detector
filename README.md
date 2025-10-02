@@ -1,5 +1,4 @@
-# mlops-spam-detector
-An end-to-end MLOps pipeline for spam detection using Google Cloud.
+
 # MLOps End-to-End SMS Spam Detector
 
 This project is a complete, end-to-end MLOps pipeline for training, deploying, and serving an SMS spam detection model using Google Cloud Platform. The system is fully automated, from weekly model retraining to a live prediction API.
