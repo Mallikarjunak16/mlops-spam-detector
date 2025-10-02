@@ -1,0 +1,5 @@
+google-cloud-storage 
+scikit-learn 
+xgboost
+ scipy 
+functions-framework
