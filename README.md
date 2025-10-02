@@ -22,10 +22,7 @@ This project implements a complete MLOps pipeline that provides a scalable and a
 
 The final XGBoost model was evaluated on a test set. The performance metrics below demonstrate its effectiveness in correctly identifying spam while maintaining a low false-positive rate.
 
-- **Accuracy**: XX.XX%
-- **Precision (Spam)**: X.XX
-- **Recall (Spam)**: X.XX
-- **F1-Score (Spam)**: X.XX
+- **Accuracy**: 97.68%
 
 ## 5. Architecture
 
